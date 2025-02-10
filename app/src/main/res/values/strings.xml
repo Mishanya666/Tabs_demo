@@ -1,0 +1,17 @@
+<resources>
+    <!-- Имя приложения -->
+    <string name="app_name">Tabs Demo</string>
+
+    <!-- Массив городов -->
+    <string-array name="cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Иркутске</item>
+    </string-array>
+
+    <string-array name="weather_data">
+        <item>Погода в Москве: -5°C, снежно</item>
+        <item>Погода в Санкт-Петербурге: 0°C, дождливо</item>
+        <item>Погода в Иркутске: 3°C, солнечно</item>
+    </string-array>
+</resources>
